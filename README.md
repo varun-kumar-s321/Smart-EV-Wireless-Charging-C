@@ -77,7 +77,3 @@ and RED/GREEN LED indication.
 - Multiple EV detection
 - Fast and slow charging modes
 
----
-
-## 🎤 Interview Explanation
-This project demonstrates how IR sensor-based detection can be used to control a wireless EV charging system with clear visual indicators using RED and GREEN LEDs.
